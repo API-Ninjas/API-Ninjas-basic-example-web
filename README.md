@@ -6,4 +6,4 @@ Browse the full list of APIs from API Ninjas [here](https://api-ninjas.com/api).
 
 # License
 
-Licensed under the (Apache License, Version 2.0)[http://www.apache.org/licenses/LICENSE-2.0]
+Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
