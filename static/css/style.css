@@ -1,0 +1,24 @@
+html {
+	height: 100%;
+}
+
+p {
+	color: white;
+	font-size: 2em;
+	font-weight: 200;
+	margin: 0;
+}
+
+body {
+	height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ 	background: rgb(255,122,113);
+	background: linear-gradient(180deg, rgba(255,122,113,1) 0%, rgba(250,152,110,1) 100%);
+}
+
+.answer {
+	display: none;
+}
+
