@@ -10,7 +10,7 @@ app = Flask(__name__)
 # Define routing.
 @app.route('/')
 def index():
-    # Make API Call.
+    # Make API Call - make sure to use a valid API key.
     resp = requests.get(TRIVIA_URL, headers={'X-Api-Key': 'YOUR API KEY'}).json()
     # Get first trivia result since the API returns a list of results.
     trivia = resp[0]
