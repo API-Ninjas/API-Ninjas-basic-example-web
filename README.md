@@ -4,9 +4,10 @@
 
 This repository contains a simple example project that spins up a trivia web application on your local machine using API Ninjas Trivia API. The source code is written in Python and uses the [Flask](https://flask.palletsprojects.com) framework.
 
-This example app introduces the following technologies:
+This example app introduces the following technologies/concepts:
 - Python
 - Flask web framework
+- Making REST API calls
 - Rendering HTML using templates
 - CSS
 
