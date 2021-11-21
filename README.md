@@ -17,7 +17,7 @@ Browse the full list of APIs from API Ninjas [here](https://api-ninjas.com/api).
 
 ## Getting Started
 
-Once you download the code, run `python3 app.py` to launch the local server and type `127.0.0.1:5000` into any browser URL bar to view the web app.
+Once you download the code, run `python3 app.py` from a terminal window to launch the local server and type `127.0.0.1:5000` into any browser URL bar to view the web app.
 
 ### License
 
