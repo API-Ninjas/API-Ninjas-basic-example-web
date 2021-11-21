@@ -15,6 +15,10 @@ This example app introduces the following technologies/concepts:
 
 Browse the full list of APIs from API Ninjas [here](https://api-ninjas.com/api).
 
+## Getting Started
+
+Once you download the code, run `python3 app.py` to launch the local server and type `127.0.0.1:5000` into any browser URL bar to view the web app.
+
 ### License
 
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
