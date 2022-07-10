@@ -1,6 +1,6 @@
 # API Ninjas Web App Example (Trivia)
 
-![Screenshot](https://s3.us-west-2.amazonaws.com/api-ninjas.com/images/basic_example_screenshot.png)
+![Screenshot](https://api-ninjas.com/images/examples/basic_web_app_3.png)
 
 This repository contains a simple example project that spins up a trivia web application on your local machine using API Ninjas Trivia API. The source code is written in Python and uses the [Flask](https://flask.palletsprojects.com) framework.
 
